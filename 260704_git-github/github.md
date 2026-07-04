@@ -9,4 +9,16 @@
 1. `git remote add origin "url" `でローカルのgitに，githubのリポジトリを登録
 1. `git push -u origin main`で，originにmainを送信
 
+## 2回目以降のpush
+2回目以降のメインブランチへプッシュは次の通り
+1. `git add .`
+1. `git commit -m "description of this commit"`
+1. `git push`
+これでプッシュが可能
+
+## ブランチの切り分け
+
+## プルリクエスト
+
+## git ignore
 
